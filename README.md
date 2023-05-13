@@ -120,3 +120,5 @@ Bearer eyJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJyYXRuZXNobWlzaHJhcnVsekBnbWFpbC5jb20iLCJp
 ```json
 "username": "drreamboy9@gmail.com",
 "password": "znpfhusycrboojjm"
+```
+3. Possible values for role are "ROLE_ADMIN" and "ROLE_USER".
